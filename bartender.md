@@ -8,7 +8,7 @@ nav_order: 4
 # Bartender Rules
 > edit me on [GitHub](https://github.com/sybenx/aarwares-site/blob/main/bartender.md)
 
-**_notice! if you have multiple Heart Aces, make sure you only have one before playing_**
+**_notice! some decks have suplicate Heart Aces, make sure you only have one per deck before playing_**
 
 Game can be played with a normal deck of playing cards (1 deck for 2 players, 2 decks for 3-4).
 
