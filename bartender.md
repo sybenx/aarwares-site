@@ -9,7 +9,11 @@ nav_order: 4
 
 **_notice! if you have multiple Heart Aces, make sure you only have one before playing_**
 
-Shuffle deck, deal 7 cards to each player, including coins. Then separate coins from deck, making two draw and discard piles: coin pile and main draw pile, and a space for shovels. Place these on opposite ends of the playing area.
+Game can be played with a normal deck of playing cards (1 deck for 2 players, 2 decks for 3-4).
+
+### _To Play_
+
+Separate coins from deck, making two draw and discard piles for coins and one main draw pile on opposite ends of the market square (the center playing area).
 
 In front of each player is their own bar where their cards are in play. Always immediately play bartender (KQJ) and customer (heart) cards.
 
@@ -19,7 +23,7 @@ A player starts their turn by drawing coins for each happy customer they have up
 
 To win the game, a player must have 4 of a kind of bartenders along with at least 3 customers and the Ace customer card.
 
-Shovels (spades) are used to "dig a hole", which is a separate shared discard pile. Once the value of the shovels in the hole pile adds to 25 or more, the player who played the final shovel chooses a bartender to bury (discard) along with all shovels in the hole. If the attacked player plays a higher value shovel, the attack is prevented and instead chooses a bartender to bury. The main draw pile and shovels from the hole are shuffled and the buried bartender is placed at the bottom.
+Shovels (spades) are used to "dig a hole", which is a separate shared discard pile by the market square. Once the value of the shovels in the hole adds to 25 or more, the player who played the final shovel chooses a bartender to bury (discard) along with all shovels in the hole. If the attacked player plays a higher value shovel, the attack is prevented and instead chooses a bartender to bury. The main draw pile and shovels from the hole are shuffled and the buried bartender is placed at the bottom.
 
 Raiders (clubs) can be played on a bartender to raid it. If successful, the bartender is taken out of play and placed in the market (center playing field). Bartenders in the market can be obtained by any player on their turn by playing a coin card on the bartender, starting a bid. All players can participate in the bid, highest played coin card wins the bartender. To prevent a raider from raiding a bartender, a higher raider or coin card must be played. All played cards are discarded after use whether they are successful or not.
 
