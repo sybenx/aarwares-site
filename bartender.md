@@ -14,7 +14,7 @@ Game can be played with a normal deck of playing cards (1 deck for 2 players, 2 
 
 ## _To Play_
 
-Separate coins from deck, making two shuffled draw and discard piles for coins and one main draw pile on opposite ends of the market square (the center playing area).
+Separate coins (diamonds) from deck, making two shuffled draw and discard piles for coins and one main draw pile on opposite ends of the market square (the center playing area).
 
 In front of each player is their own bar where their own cards are in play.
 
