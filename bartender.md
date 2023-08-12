@@ -12,7 +12,6 @@ nav_order: 4
 
 Game can be played with a normal deck of playing cards or special Bartender cards (1 deck for 2 players, 2 decks for 3-4 players).
 
-[Discord](https://discord.gg/hfDj2JdH)
 ## _To Play_
 
 Separate coins (diamonds) from deck, shuffled both new decks. Place coins draw pile on the opposite end of the market square (the center playing area) from the main draw pile.
@@ -34,3 +33,7 @@ Shovels (spades) are used to "dig a hole", which is a separate shared discard pi
 Raiders (clubs) can be played on a bartender to raid it. If successful, the bartender is taken out of play and placed in the market (center playing field). Bartenders in the market can be obtained by any player on their turn by playing a coin card on the bartender, starting a bid. All players can participate in the bid, highest played coin card wins the bartender. To prevent a raider from raiding a bartender, a higher raider or coin card must be played. All played cards are discarded after use whether they are successful or not.
 
 Coins can also be used to advertise to a customer. If successful the customer card is transferred to the player's bar. An equal or higher value coin can be immediately played on that customer to keep it. A raider of equal or higher value can also be played to destroy the advertisement and keep the customer.
+
+### [Take a Survey](https://forms.gle/mPD71fr6YsUsrQp18)
+
+### [Discord](https://discord.gg/hfDj2JdH)
