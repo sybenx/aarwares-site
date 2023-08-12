@@ -10,7 +10,7 @@ nav_order: 4
 
 **_notice! some decks have suplicate Heart Aces, make sure you only have one per deck before playing_**
 
-Game can be played with a normal deck of playing cards (1 deck for 2 players, 2 decks for 3-4).
+Game can be played with a normal deck of playing cards (1 deck for 2 players, 2 decks for 3-4 players).
 
 ### _To Play_
 
