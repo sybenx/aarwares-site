@@ -18,7 +18,7 @@ Separate coins (diamonds) from deck, making two shuffled draw and discard piles 
 
 In front of each player is their own bar where their own cards are in play.
 
-Deal 7 cards to each player. Players immediately play bartender (KQJ) and customer (heart) cards. Anytime these cards are drawn they are played immediately, pairing bartenders with customers.
+Deal 7 cards to each player. Players immediately play bartender (KQJ) and customer (heart) cards. Anytime these cards are drawn they are played immediately, pairing bartenders with customers. Numbers on customers are not used (except Ace), and suits on face cards are not used.
 
 The player with the fewest paired bartenders goes first. If tied, player with fewest customers. 
 
