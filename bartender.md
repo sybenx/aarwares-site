@@ -4,4 +4,4 @@ title: Bartender
 nav_order: 4
 ---
 
-test
+[Bartender Rules]({% link bartender/rules.md %})
