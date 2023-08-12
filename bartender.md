@@ -12,7 +12,7 @@ nav_order: 4
 
 Game can be played with a normal deck of playing cards (1 deck for 2 players, 2 decks for 3-4 players).
 
-### _To Play_
+## _To Play_
 
 Separate coins from deck, making two shuffled draw and discard piles for coins and one main draw pile on opposite ends of the market square (the center playing area).
 
