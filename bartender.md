@@ -17,7 +17,7 @@ Game can be played with a normal deck of playing cards or special Bartender card
 
 Separate coins (diamonds) from deck, shuffled both new decks. Place coins draw pile on the opposite end of the market square (the center playing area) from the main draw pile.
 
-Deal 7 cards to each player. Players immediately play bartender (KQJ) and customer (heart) cards on their bar (space in front of themselves). Anytime these cards are drawn they are played immediately, pairing bartenders with customers. Numbers on customers are not used (except the Ace which is needed to win), and suits on face cards are not used.
+Deal 7 cards to each player. Players immediately play bartender (KQJ) and customer (heart) cards on their bar (space in front of each player). Anytime these cards are drawn they are played immediately, pairing bartenders with customers. Numbers on customers are not used (except the Ace which is needed to win), and suits on face cards are not used.
 
 The player with the fewest paired bartenders goes first. If tied, player with fewest customers. 
 
