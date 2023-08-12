@@ -4,4 +4,4 @@ layout: home
 nav_order: 1
 ---
 
-[Bartender] – card game
+[Bartender]({% link bartender.md %})– card game
