@@ -18,6 +18,8 @@ Separate coins (diamonds) from deck, shuffled both new decks. Place coins draw p
 
 Deal 7 cards to each player. Players immediately play bartender (KQJ) and customer (heart) cards on their bar (space in front of each player). Anytime these cards are drawn they are played immediately, pairing bartenders with customers. Numbers on customers are not used (except the Ace which is needed to win), and suits on face cards are not used.
 
+![Game Layout](https://github.com/sybenx/aarwares-site/assets/2048087/e9332d8a-d94a-4b96-9c63-c40541358213)
+
 The player with the fewest paired bartenders goes first. If tied, player with fewest customers. 
 
 A player starts their turn by drawing a coin for each happy customer (bartender/customer pair) they have up to a hand of 7, then drawing the rest up to 7 from the main draw pile. They play raiders against another player's bartender to put them out of business (into the market square) and coins to win over other player's customers and bring them directly to their own bar. A player may discard unwanted cards. At the end of their turn, the player can play one shovel card which ends their turn.
