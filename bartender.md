@@ -15,7 +15,7 @@ Game can be played with a normal deck of playing cards or special Bartender card
 [Discord](https://discord.gg/hfDj2JdH)
 ## _To Play_
 
-Separate coins (diamonds) from deck, making two shuffled draw and discard piles for coins and one main draw pile on opposite ends of the market square (the center playing area).
+Separate coins (diamonds) from deck, shuffled both new decks. Place coins draw pile on the opposite end of the market square (the center playing area) from the main draw pile.
 
 In front of each player is their own bar where their own cards are in play.
 
