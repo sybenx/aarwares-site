@@ -6,6 +6,7 @@ nav_order: 4
 
 
 # Bartender Rules
+> edit me on [GitHub](https://github.com/sybenx/aarwares-site/blob/main/bartender.md)
 
 **_notice! if you have multiple Heart Aces, make sure you only have one before playing_**
 
