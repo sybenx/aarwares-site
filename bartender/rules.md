@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal
 title: Bartender Rules
 nav_order: 4
 ---
