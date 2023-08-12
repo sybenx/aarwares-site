@@ -10,8 +10,9 @@ nav_order: 4
 
 **_notice! some decks have multiple Heart Aces, make sure you only have one per deck before playing_**
 
-Game can be played with a normal deck of playing cards (1 deck for 2 players, 2 decks for 3-4 players).
+Game can be played with a normal deck of playing cards or special Bartender cards (1 deck for 2 players, 2 decks for 3-4 players).
 
+[Discord](https://discord.gg/hfDj2JdH)
 ## _To Play_
 
 Separate coins (diamonds) from deck, making two shuffled draw and discard piles for coins and one main draw pile on opposite ends of the market square (the center playing area).
