@@ -26,7 +26,7 @@ A customer and bartender pair are a "happy customer".
 
 A player starts their turn by drawing coins for each happy customer they have up to a hand of 7, then drawing the rest from the main draw pile if needed. They play raiders against another player's bartender to put them out of business (into the market square) and coins to win over other player's customers and bring them directly to their own bar. A player may discard unwanted cards. At the end of their turn, the player can play one shovel card which ends their turn.
 
-If a player has bartenders or customers that aren't part of a happy customer pair at the end of their turn, turn them sideways. If the a pair isn't made when drawing on the next turn, turned customers are discarded and turned bartenders enter the market.
+If a player has bartenders or customers that aren't part of a happy customer pair at the end of their turn, turn them sideways. If a pair isn't made with the turned cards when drawing on the next turn, turned customers are discarded and turned bartenders enter the market.
 
 To win the game, a player must obtain 4 of a kind of bartenders along with a customer for every bartender, including the Ace customer card.
 
