@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bartender
+title: Bartender Rules
 nav_order: 4
 ---
 
