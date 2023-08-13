@@ -11,4 +11,4 @@ nav_order: 4
 
 Played the game? 
 
-[Take a Survey](https://forms.gle/mPD71fr6YsUsrQp18){: .btn .btn-green }
+[Take a Survey](https://forms.gle/mPD71fr6YsUsrQp18){: .btn .btn-outline }
