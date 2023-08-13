@@ -6,9 +6,6 @@ nav_order: 4
 
 ![bartenderwide](https://github.com/sybenx/aarwares-site/assets/2048087/910426f8-7227-48ae-95a7-2b68cd40507b)
 
-[Bartender Rules]({% link bartender/rules.md %}){: .btn .btn-primary }
+[Bartender Rules]({% link bartender/rules.md %}){: .btn .btn-primary .mr-4 }
 [![Discord Logo](https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6ca814282eca7172c6_icon_clyde_white_RGB.svg){:width="15px"} Discord](https://discord.gg/hfDj2JdH){: .btn .btn-purple }
-
-Played the game? 
-
-[Take a Survey](https://forms.gle/mPD71fr6YsUsrQp18){: .btn }
+[Take a Survey](https://forms.gle/mPD71fr6YsUsrQp18){: .btn .btn-green }
