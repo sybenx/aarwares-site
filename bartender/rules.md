@@ -18,7 +18,7 @@ Separate coins (diamonds) from deck, shuffled both new decks. Place coins draw p
 
 Deal 7 cards to each player. Players immediately play bartender (KQJ) and customer (heart) cards on their bar (space in front of each player). Anytime these cards are drawn they are played immediately, pairing bartenders with customers. Numbers on customers are not used (except the Ace which is needed to win), and suits on face cards are not used.
 
-![Game Layout](https://github.com/sybenx/aarwares-site/assets/2048087/e9332d8a-d94a-4b96-9c63-c40541358213)
+![Market Square](https://github.com/sybenx/aarwares-site/assets/2048087/950d427c-65e8-42f9-8868-f5edbfe5d5d3)
 
 The player with the fewest paired bartenders goes first. If tied, player with fewest customers. 
 
@@ -29,6 +29,9 @@ If a player has bartenders or customers that aren't part of a happy customer pai
 To win the game, a player must obtain 4 of a kind of bartenders along with a customer for every bartender, including the Ace customer card.
 
 To defend against an attacking player, a player can play an equal or higher value raider or coin. When a player is about to lose any card, they can use a shovel to instead discard that card.
+
+![Full Game Layout](https://github.com/sybenx/aarwares-site/assets/2048087/8bf89d72-748c-41ad-ae2d-16a05f48879a)
+
 
 Shovels (spades) are used to "dig a hole", which is a separate shared discard pile by the market square. Once the value of the shovels in the hole adds to 25 or more, the player who played the final shovel chooses a bartender to bury (discard) along with all shovels in the hole. If the attacked player plays a higher value shovel, the attack is prevented and instead chooses a bartender to bury. The main draw pile and shovels from the hole are shuffled and the buried bartender is placed at the bottom.
 
