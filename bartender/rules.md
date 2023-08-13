@@ -18,7 +18,7 @@ Separate coins (diamonds) from deck, shuffled both new decks. Place coins draw p
 
 Deal 7 cards to each player. Players immediately play bartender (KQJ) and customer (heart) cards on their bar (space in front of each player). Anytime these cards are drawn they are played immediately, pairing bartenders with customers. Numbers on customers are not used (except the Ace which is needed to win), and suits on face cards are not used.
 
-![Market Square](https://github.com/sybenx/aarwares-site/assets/2048087/950d427c-65e8-42f9-8868-f5edbfe5d5d3)
+![Market Square](https://github.com/sybenx/aarwares-site/assets/2048087/e914cea5-2841-4736-9540-40b6c52f1838)
 
 The player with the fewest paired bartenders goes first. If tied, player with fewest customers. 
 
