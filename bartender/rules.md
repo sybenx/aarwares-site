@@ -26,7 +26,7 @@ A player starts their turn by drawing a coin for each happy customer (bartender/
 
 If a player has bartenders or customers that aren't part of a happy customer pair at the end of their turn, turn them sideways. If they aren't made into a pair by the end of drawing on the next turn, turned customers are discarded and turned bartenders enter the market.
 
-To win the game, a player must obtain 4 of a kind of bartenders along with a customer for every bartender, including the Ace customer card.
+To win the game, a player must obtain 4 of a kind of bartenders of one type along with a customer for every bartender, including the Ace customer card.
 
 To defend against an attacking player, a player can play an equal or higher value raider or coin. When a player is about to lose any card, they can use a shovel to instead discard that card.
 
