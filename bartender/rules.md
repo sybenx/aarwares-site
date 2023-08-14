@@ -22,7 +22,7 @@ Deal 7 cards to each player. Players immediately play bartender (KQJ) and custom
 
 The player with the fewest paired bartenders goes first. If tied, player with fewest customers. 
 
-A player starts their turn by drawing a coin for each happy customer (bartender/customer pair) up to a hand of 7, then drawing the rest up to 7 from the main draw pile. They can play raiders against another player's bartender to put them out of business (into the market square) and coins to win over other player's customers and bring them directly to their own bar. A player can also start a bid on bartenders in the market square. A player may discard unwanted cards. At the end of their turn, the player can play one shovel card which ends their turn.
+A player starts their turn by drawing a coin for each happy customer (bartender/customer pair) up to a hand of 7, then drawing the rest up to 7 from the main draw pile. They can play raiders against another player's bartender to put them out of business (into the market square) and coins to win over other player's customers and bring them directly to their own bar. A player can also start a bid on bartenders in the market square. A player may discard unwanted cards. At the end of their turn, the player can play one shovel card into the hole which ends their turn.
 
 If a player has bartenders or customers that aren't part of a happy customer pair at the end of their turn, turn them sideways. If they aren't made into a pair by the end of drawing on the next turn, turned customers are discarded and turned bartenders enter the market.
 
