@@ -16,13 +16,13 @@ Game can be played with a normal deck of playing cards or special Bartender card
 
 Separate coins (diamonds) from deck, shuffle each deck. Place draw piles on the opposite end of the market square (the center playing area) face down.
 
-Deal 7 cards to each player. Players immediately play bartender (KQJ) and customer (heart) cards on their bar (space in front of each player). Anytime these cards are drawn they are played immediately, pairing bartenders with customers. Numbers on customers are not used (except the Ace which is needed to win), and suits on face cards are not used.
+Deal 7 cards to each player. Players immediately play bartender (KQJ) and customer (heart) cards on their bar (space in front of each player). Anytime these cards are drawn they are played immediately, pairing bartenders with customers. (Numbers on customers are not used (except the Ace which is needed to win), and suits on face cards are not used.)
 
 ![Market Square](https://github.com/sybenx/aarwares-site/assets/2048087/e914cea5-2841-4736-9540-40b6c52f1838)
 
 The player with the fewest paired bartenders goes first. If tied, player with fewest customers. 
 
-A player starts their turn by drawing a coin for each happy customer (bartender/customer pair) they have up to a hand of 7, then drawing the rest up to 7 from the main draw pile. They play raiders against another player's bartender to put them out of business (into the market square) and coins to win over other player's customers and bring them directly to their own bar. A player may discard unwanted cards. At the end of their turn, the player can play one shovel card which ends their turn.
+A player starts their turn by drawing a coin for each happy customer (bartender/customer pair) up to a hand of 7, then drawing the rest up to 7 from the main draw pile. They can play raiders against another player's bartender to put them out of business (into the market square) and coins to win over other player's customers and bring them directly to their own bar. A player may discard unwanted cards. At the end of their turn, the player can play one shovel card which ends their turn.
 
 If a player has bartenders or customers that aren't part of a happy customer pair at the end of their turn, turn them sideways. If they aren't made into a pair by the end of drawing on the next turn, turned customers are discarded and turned bartenders enter the market.
 
