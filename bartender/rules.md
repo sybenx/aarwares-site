@@ -10,7 +10,7 @@ parent: Bartender
 
 **_notice! some decks have multiple Heart Aces, make sure you only have one per deck before playing_**
 
-Game can be played with a normal deck of playing cards or special Bartender cards (1 deck for 2 players, make sure you have at least 20 diamonds (coins) for 3-4 players).
+> Game can be played with a normal deck of playing cards or special Bartender cards (1 deck for 2 players, make sure you have at least 20 diamonds (coins) for 3-4 players).
 
 ## _To Play_
 
