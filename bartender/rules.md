@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Bartender Rules
-nav_order: 4
+parent: Bartender
 ---
 
 
