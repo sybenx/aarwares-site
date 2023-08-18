@@ -10,13 +10,13 @@ parent: Bartender
 
 **_notice! some decks have multiple Heart Aces, make sure you only have one per deck before playing_**
 
-Game can be played with a normal deck of playing cards or special Bartender cards (1 deck for 2 players, 2 decks for 3-4 players).
+Game can be played with a normal deck of playing cards or special Bartender cards (1 deck for 2 players, make sure you have at least 20 diamonds (coins) for 3-4 players).
 
 ## _To Play_
 
-Separate coins (diamonds) from deck, shuffle each deck. Place draw piles face down on the opposite end of the market square (the center playing area).
+Separate coins (diamonds) from deck, shuffle the main deck and the coins deck. Place the two draw piles face down on the opposite end of the market square (the center playing area).
 
-Deal 7 cards to each player. Players immediately play bartender (KQJ) and customer (heart) cards on their bar (space in front of each player). Anytime these cards are drawn they are played immediately, pairing bartenders with customers. (Numbers on customers are not used (except the Ace which is needed to win), and suits on face cards are not used.)
+Deal 7 cards to each player. Players immediately play bartender (KQJ) and customer (heart) cards on their bar (space in front of each player). Anytime these cards are drawn they are played immediately. Bartenders are paired with customers. (Numbers on customers are not used (except the Ace which is needed to win), and suits on face cards are not used.)
 
 ![Market Square](https://github.com/sybenx/aarwares-site/assets/2048087/e914cea5-2841-4736-9540-40b6c52f1838)
 
