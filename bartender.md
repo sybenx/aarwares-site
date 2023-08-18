@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Bartender
+has_children: true
 nav_order: 4
 ---
 
