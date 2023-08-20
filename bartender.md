@@ -14,4 +14,4 @@ permalink: bartender
 
 Played the game? [Take a Survey](https://forms.gle/mPD71fr6YsUsrQp18)
 
-In this game, players compete with taverns in a medieval town filled with thirsty patrons. Players can use cards to attack or defend their bartenders by persuading customers, raiding establishments, or digging a deadly pit. The player who monopolizes the bartenders and keeps the most important customers wins.
+In this game, players compete over bartenders in a medieval town filled with thirsty patrons. Players can use cards to attack or defend their bartenders by persuading customers, raiding establishments, or digging deadly traps. The player who establish their bartenders and win the most important customers are victorious.
