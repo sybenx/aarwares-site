@@ -6,38 +6,90 @@ parent: Bartender
 
 
 # Bartender Rules
-> edit me on [GitHub](https://github.com/sybenx/aarwares-site/blob/main/bartender.md)
 
-**_notice! some decks have multiple Heart Aces, make sure you only have one per deck before playing_**
+**_Notice: some decks were printed with more than one Heart Ace. Check that your deck has exactly one before playing._**
 
-> *Game can be played with a normal deck of playing cards or special Bartender cards (1 deck works for 2-4 players, make sure you have at least 20 diamonds (coins) cards to avoid running out). Use cards (1-10) from another deck of Bartender or playing cards if yours only has 10.*
+## What You Need
 
-## _To Play_
+One main deck supports 2–4 players. You can play with a standard deck of playing cards or with a Bartender deck.
 
-Separate coins (diamonds) from deck, shuffle the main deck and the coins deck. Place the two draw piles face down on the opposite end of the market square (the center playing area).
+You also need at least **20 coin cards** — two sets of 1 through 10. Early Bartender decks shipped with only one set of ten, and a standard playing-card deck holds only thirteen diamonds. Either way, pull the extra coins from a second deck so you don't run out mid-game.
 
-Deal 7 cards to each player. Players immediately play bartender (KQJ) and customer (heart) cards on their bar (space in front of each player). Anytime these cards are drawn they are played immediately. Bartenders are paired with customers. (Numbers on customers are not used (except the Ace which is needed to win), and suits on face cards are not used.)
+## The Cards
+
+| Card | Role | Notes |
+| --- | --- | --- |
+| Kings, Queens, Jacks | **Bartenders** | Suit is ignored |
+| Hearts | **Customers** | Number is ignored; the Ace is needed to win |
+| Diamonds | **Coins** | |
+| Clubs | **Raiders** | |
+| Spades | **Shovels** | |
+
+Wherever a card's value matters, an **Ace is worth 10**.
+
+## Setup
+
+Separate the coins from the rest of the cards. Shuffle the coins and the main deck separately and place both face down at one end of the **market square** — the shared playing area in the center of the table.
+
+Deal 7 cards to each player. Each player immediately plays any bartenders and customers onto their **bar**, the space in front of them. Bartenders and customers are played to the bar the moment they're drawn, on any turn.
+
+A bartender paired with a customer is a **happy customer**.
+
+The player with the fewest happy customers goes first. If tied, the player with the fewest customers goes first. If still tied, each tied player cuts the main deck and reveals a card — lowest goes first, then shuffle the revealed cards back in.
 
 ![Market Square](https://github.com/sybenx/aarwares-site/assets/2048087/e914cea5-2841-4736-9540-40b6c52f1838)
 
-The player with the fewest paired bartenders goes first. If tied, player with fewest customers. 
+## Taking a Turn
 
-A player starts their turn by drawing a coin for each happy customer (bartender/customer pair) up to a hand of 7, then drawing the rest up to 7 from the main draw pile. They can play raiders against another player's bartender to put them out of business (into the market square) and coins to win over other player's customers and bring them directly to their own bar. A player can also start a bid on bartenders in the market square. A player may discard unwanted cards. At the end of their turn, the player can play one shovel card into the hole which ends their turn.
+**1. Draw.** Draw one coin for each happy customer on your bar, up to a hand of 7. Then draw from the main deck until you have 7 cards. Play any bartenders and customers you drew onto your bar immediately.
 
-If a player has bartenders or customers that aren't part of a happy customer pair at the end of their turn, turn them sideways. If they aren't made into a pair by the end of drawing on the next turn, turned customers are discarded and turned bartenders enter the market.
+**2. Take one action.** You may take a single action per turn:
 
-To win the game, a player must obtain 4 of a kind of bartenders of one type along with a customer for every bartender, including the Ace customer card.
+- **Raid** another player's bartender
+- **Advertise** to another player's customer
+- **Start a bid** on a bartender in the market square
 
-To defend against an attacking player, a player can play an equal or higher value raider or coin. When a player is about to lose any card, they can use a shovel to instead discard that card.
+**3. Discard.** You may discard unwanted cards from your hand. This is the only point in the game where you may discard voluntarily.
+
+**4. Play a shovel (optional).** You may play one shovel into the hole. This ends your turn.
+
+**5. Turn unpaired cards sideways.** Any bartender or customer on your bar that isn't part of a happy customer pair is turned sideways. If it still isn't paired at the end of your next turn's draw, a sideways customer is discarded and a sideways bartender goes into the market square.
+
+Defending against another player's attack and bidding on a market bartender are **not** actions — you can do those on anyone's turn.
+
+## Winning
+
+To win, you must hold four bartenders of the same rank — four Kings, four Queens, or four Jacks — plus a customer for each of them, one of which must be the **Ace of Hearts**.
 
 ![Full Game Layout](https://github.com/sybenx/aarwares-site/assets/2048087/8bf89d72-748c-41ad-ae2d-16a05f48879a)
 
+## Raiders
 
-Shovels (spades) are used to "dig a hole", which is a separate shared discard pile by the market square. Once the value of the shovels in the hole adds to 25 or more, the player who played the final shovel chooses a bartender to bury (discard) along with all shovels in the hole. If the attacked player plays a higher value shovel, the attack is prevented and instead chooses a bartender to bury. The main draw pile and shovels from the hole are shuffled and the buried bartender is placed at the bottom. Ace is worth 10.
+Play a raider on another player's bartender to put that bartender out of business. If the raid succeeds, the bartender is removed from its owner's bar and placed in the market square.
 
-Raiders (clubs) can be played on a bartender to raid it. If successful, the bartender is taken out of play and placed in the market (center playing field). Bartenders in the market can be obtained by any player on their turn by playing a coin card on the bartender, starting a bid. All players can participate in the bid, highest played coin card wins the bartender. To prevent a raider from raiding a bartender, a higher raider or coin card must be played. All played cards are discarded after use whether they are successful or not.
+The owner can stop the raid by playing a raider or coin of **equal or higher value**.
 
-Coins can also be used to advertise to a customer. If successful the customer card is transferred to the player's bar. An equal or higher value coin can be immediately played on that customer to keep it. A raider of equal or higher value can also be played to destroy the advertisement and keep the customer.
+Either way, all cards played in the exchange are discarded afterward — successful or not.
+
+## Coins and Advertising
+
+Play a coin on another player's customer to advertise to them. If it succeeds, the customer moves straight to your bar.
+
+The owner can keep the customer by immediately playing either a coin of equal or higher value, or a raider of equal or higher value to destroy the advertisement.
+
+## Bidding
+
+Bartenders sitting in the market square can be claimed on your turn by playing a coin on one, which starts a bid. Every player may bid. The highest coin played wins the bartender, which goes to that player's bar. All coins played in the bid are discarded.
+
+## Shovels and the Hole
+
+Shovels dig **the hole** — a shared discard pile beside the market square.
+
+**Burying a bartender.** When the total value of shovels in the hole reaches 25 or more, the player who played the last shovel chooses any bartender in play to bury, including one of their own. The owner of the targeted bartender can play a shovel of higher value than that final shovel to stop it; if they do, they choose which bartender gets buried instead.
+
+Once a bartender is buried, shuffle it into the bottom of the main deck along with every shovel from the hole, and the hole starts over empty.
+
+**Saving a card.** Any time you're about to lose a card to another player, you can play a shovel to discard that card instead.
 
 ### [Take a Survey](https://forms.gle/mPD71fr6YsUsrQp18)
 
