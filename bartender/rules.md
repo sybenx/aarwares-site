@@ -11,7 +11,7 @@ parent: Bartender
 
 ## What You Need
 
-One main deck supports 2–4 players. You can play with a standard deck of playing cards or with a Bartender deck.
+One main deck supports 2–5 players. You can play with a standard deck of playing cards or with a Bartender deck.
 
 You also need at least **20 coin cards** — two sets of 1 through 10. Early Bartender decks shipped with only one set of ten, and a standard playing-card deck holds only thirteen diamonds. Either way, pull the extra coins from a second deck so you don't run out mid-game.
 
@@ -31,7 +31,9 @@ Wherever a card's value matters, an **Ace is worth 10**.
 
 ## Setup
 
-Separate the coins from the rest of the cards. Shuffle the coins and the main deck separately and place both face down at one end of the **market square** — the shared playing area in the center of the table.
+Separate the coins from the rest of the cards. **With 3 players, remove one King, one Queen, one Jack, and two Hearts from the main deck** before shuffling. With 2, 4, or 5 players, use the whole deck.
+
+Shuffle the coins and the main deck separately and place both face down at one end of the **market square** — the shared playing area in the center of the table.
 
 Deal 5 cards to each player. Each player immediately plays any bartenders and customers onto their **bar**, the space in front of them. Bartenders and customers are played to the bar the moment they're drawn, on any turn.
 
@@ -62,9 +64,16 @@ Defending against another player's attack and bidding on a market bartender are 
 
 ## Winning
 
-The first player to bank **100** in profit wins immediately.
+The first player to bank the target profit wins immediately.
 
-With 4 players, 100 is the target. With 3 players, start with 120; with 2, start with 140. Games with fewer players run shorter, so adjust the target to taste.
+| Players | Target |
+| --- | --- |
+| 5 | 80 |
+| 4 | 100 |
+| 3 | 120 (with the smaller deck) |
+| 2 | 200 |
+
+The game is at its best with 3 to 5 players. Two-player games work, but with only one rival the better opening hand matters more.
 
 ![Full Game Layout](https://github.com/sybenx/aarwares-site/assets/2048087/8bf89d72-748c-41ad-ae2d-16a05f48879a)
 
