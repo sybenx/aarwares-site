@@ -109,6 +109,4 @@ All cards played in the bid are discarded, whether they won or not.
 
 When the main deck runs out, shuffle the main discard pile and use it as the new deck. When the coin deck runs out, do the same with the coin discard pile.
 
-### [Take a Survey](https://forms.gle/mPD71fr6YsUsrQp18)
 
-### ![Discord Logo](https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg){:width="15px"} [Discord](https://discord.gg/hfDj2JdH)
